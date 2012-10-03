@@ -32,5 +32,5 @@ lib/*
 include/*
 share/*
 
-tfl_docs/*
+_tfl_docs/*
 tools/*
