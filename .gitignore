@@ -25,3 +25,12 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+.vagrant
+Vagrantfile
+lib/*
+include/*
+share/*
+
+tfl_docs/*
+tools/*
